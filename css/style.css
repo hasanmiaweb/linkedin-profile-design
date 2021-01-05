@@ -13,10 +13,17 @@ section#profile-bg {
   background: #f3f2ef;
   box-shadow: 0px 1px 14px 0px #696969;
   padding: 10px;
+  margin-bottom: 50px;
 }
 .header-bg img {
   width: 900px;
   height: 200px;
+}
+
+.profile-text h3 {
+  font-size: 30px;
+  margin-left: 50px;
+  color: #505050dd;
 }
 
 .profile-image img {
@@ -35,4 +42,18 @@ section#profile-bg {
   font-weight: 500;
   color: #424242dd;
   font-family: fangsong;
+}
+
+.profile-btn {
+  margin-top: 20px;
+  margin-left: 50px;
+  padding-bottom: 50px;
+}
+.profile-btn a {
+  background: #0a66c2;
+  padding: 10px 20px;
+  color: white;
+  font-size: 20px;
+  font-weight: 700;
+  text-decoration: none;
 }
